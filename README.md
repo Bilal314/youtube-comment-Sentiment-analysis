@@ -4,7 +4,7 @@ Project for Sentiment Analysis of YouTube Comments and Deep Analysis of YouTube 
 For Sentiment Analysis :
 
 In sentiment analysis folder run <code>youtube sentimental analysis by bilal zulfiqar.ipynb </code>
-Dataset for youtube comments is generated from The code
+Dataset for youtube comments is generated from The youtube using Api
 
 For Deep Analysis of Youtube Dataset
 
